@@ -1,0 +1,37 @@
+crear funcion que actualize un actor
+	pedr nombre, apellido e id usar id como identificador
+
+ciclos ---> loops
+	
+sumatoria ---> 5 = 15
+ 5+4+3+2+1...
+
+
+
+usando funciones
+ pedir el numero de cliente y regresar el total de ventas
+llamar a la funcion "ventas_por_cliente"
+
+producto_mas_ventido
+fucnion que regrese el producto mas vendido
+
+
+Ing Soft
+1ra unidad
+76
+2da unidad
+100
+
+
+
+Ariel Josue Estrada Orozco	
+R
+Es
+O
+
+
+
+
+
+
+
